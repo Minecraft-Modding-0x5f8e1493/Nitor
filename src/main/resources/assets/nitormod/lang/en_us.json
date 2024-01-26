@@ -1,0 +1,20 @@
+{
+  "itemGroup.nitormod.nitor": "Nitor",
+
+  "block.nitormod.nitor_white": "White Nitor",
+  "block.nitormod.nitor_gray": "Gray Nitor",
+  "block.nitormod.nitor_cyan": "Cyan Nitor",
+  "block.nitormod.nitor_green": "Green Nitor",
+  "block.nitormod.nitor_black": "Black Nitor",
+  "block.nitormod.nitor_blue": "Blue Nitor",
+  "block.nitormod.nitor_brown": "Brown Nitor",
+  "block.nitormod.nitor_light_blue": "Light Blue Nitor",
+  "block.nitormod.nitor_light_gray": "Light Gray Nitor",
+  "block.nitormod.nitor_lime": "Lime Nitor",
+  "block.nitormod.nitor_magenta": "Magenta Nitor",
+  "block.nitormod.nitor_orange": "Orange Nitor",
+  "block.nitormod.nitor_pink": "Pink Nitor",
+  "block.nitormod.nitor_purple": "Purple Nitor",
+  "block.nitormod.nitor_red": "Red Nitor",
+  "block.nitormod.nitor_yellow": "Yellow Nitor"
+}

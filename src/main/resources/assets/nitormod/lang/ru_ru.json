@@ -1,0 +1,20 @@
+{
+  "itemGroup.nitormod.nitor": "Нитор",
+
+  "block.nitormod.nitor_white": "Белый Нитор",
+  "block.nitormod.nitor_gray": "Серый Нитор",
+  "block.nitormod.nitor_cyan": "Голубой Нитор",
+  "block.nitormod.nitor_green": "Зелёный Нитор",
+  "block.nitormod.nitor_black": "Чёрный Нитор",
+  "block.nitormod.nitor_blue": "Синий Нитор",
+  "block.nitormod.nitor_brown": "Коричневый Нитор",
+  "block.nitormod.nitor_light_blue": "Голубой Нитор",
+  "block.nitormod.nitor_light_gray": "Белый Нитор",
+  "block.nitormod.nitor_lime": "Зелёный Нитор",
+  "block.nitormod.nitor_magenta": "Пурпурный Нитор",
+  "block.nitormod.nitor_orange": "Оранжевый Нитор",
+  "block.nitormod.nitor_pink": "Розовый Нитор",
+  "block.nitormod.nitor_purple": "Фиолетовый Нитор",
+  "block.nitormod.nitor_red": "Красный Нитор",
+  "block.nitormod.nitor_yellow": "Желтый Нитор"
+}

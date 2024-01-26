@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "nitormod",
+  "version": "0.1.0",
+
+  "name": "Nitor",
+  "authors": [
+    "AdaMorgan"
+  ],
+
+  "license": "Custom License",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "mod.NitorMod"
+    ],
+    "client": [
+      "mod.client.NitorModClient"
+    ]
+  },
+  "depends": {
+    "lodestone": ">=0.0.5+1.20.1"
+  },
+  "mixins": [
+    "nitormod.mixins.json"
+  ]
+}
