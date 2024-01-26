@@ -17,4 +17,5 @@ Depending on what dye you use in crafting, this color will be the nitor.
 Nitor can be used to illuminate areas very similar to torches, but will look fairly similar to an aura.
 
 curseforge - https://legacy.curseforge.com/minecraft/mc-mods/nitor
+
 modrinth - https://modrinth.com/mod/nitor
