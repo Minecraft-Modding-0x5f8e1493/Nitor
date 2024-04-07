@@ -54,7 +54,7 @@ public class NitorBlock extends Block implements BlockEntityProvider {
     public <T extends BlockEntity> BlockEntityTicker<T> getTicker(@NotNull World world, BlockState state, BlockEntityType<T> type) {
         if (world.isClient)
             return (world1, pos, state1, blockEntity) -> NitorRenderer.entityTick(world1, pos, state, blockEntity);
-
-        throw new RuntimeException("World not is client!");
+        else
+            return null;
     }
 }
